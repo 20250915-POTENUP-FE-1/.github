@@ -53,7 +53,7 @@
 
 
 ### 📂 Teacher Lecture Source Repository
-- [HTML]()
+- [HTML](https://github.com/20250915-POTENUP-FE-1/01_html-workspace/tree/main/lecture)
 - [CSS]()
 - [JavaScript]()
 - [React]()
