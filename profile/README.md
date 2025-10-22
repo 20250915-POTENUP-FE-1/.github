@@ -55,7 +55,7 @@
 ### 📂 Teacher Lecture Source Repository
 - [HTML](https://github.com/20250915-POTENUP-FE-1/01_html-workspace/tree/main)
 - [CSS](https://github.com/20250915-POTENUP-FE-1/02_css-workspace)
-- [JavaScript]()
+- [JavaScript](https://github.com/20250915-POTENUP-FE-1/03_javascript-workspace)
 - [React]()
 - [Firebase]()
 - [GraphQL]()
@@ -65,10 +65,11 @@
 - [AI]()
 
 ### 📽️ 수업 영상
-- [HTML]()
-- [CSS]()
-- [JavaScript]()
-- [React]()
+- [Git](https://drive.google.com/drive/folders/1p71qtpiyU6kNLEqX4-KEZnQ-HhzPz7eR?usp=drive_link)
+- [HTML](https://drive.google.com/drive/folders/14NcgERCGs_XNoJwZsHdzoVOs-R9DX2wl?usp=drive_link)
+- [CSS](https://drive.google.com/drive/folders/1kD5COCDSH4uqfnq3aZxyOQk6oChGmERR?usp=drive_link)
+- [JavaScript](https://drive.google.com/drive/folders/1MaLkEE1S4CESrLdAgpQgMA4xg6Q1wK-f?usp=drive_link)
+- [React](https://drive.google.com/drive/folders/1d2TRIOtgKfBTXFtohEyWt5NJjJfm2qWN?usp=drive_link)
 - [Firebase]()
 - [GraphQL]()
 - [TypeScript]()
