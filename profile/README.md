@@ -56,7 +56,7 @@
 - [HTML](https://github.com/20250915-POTENUP-FE-1/01_html-workspace/tree/main)
 - [CSS](https://github.com/20250915-POTENUP-FE-1/02_css-workspace)
 - [JavaScript](https://github.com/20250915-POTENUP-FE-1/03_javascript-workspace)
-- [React]()
+- [React](https://github.com/20250915-POTENUP-FE-1/04_react-workspace)
 - [Firebase]()
 - [GraphQL]()
 - [TypeScript]()
