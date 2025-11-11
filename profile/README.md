@@ -16,6 +16,23 @@
 ### 🏫 Notion 링크
 - [우리반 노션](https://www.notion.so/ohgiraffers/1-26a649136c11802394b8caeef1989852)
 
+### 👬 LXP Project
+#### LXP_gorogoro
+| [Repository](https://github.com/20250915-POTENUP-FE-1/LXP_gorogoro) | [Issues](https://github.com/20250915-POTENUP-FE-1/LXP_gorogoro/issues?q=is%3Aissue%20state%3Aclosed) |
+|-----------------------------------------------------------|-----------------|
+#### LXP_Learning-crew
+| [Repository](https://github.com/20250915-POTENUP-FE-1/LXP_Learning-crew) | [Issues](https://github.com/20250915-POTENUP-FE-1/LXP_Learning-crew/issues?q=is%3Aissue%20state%3Aclosed) |
+|-----------------------------------------------------------|-----------------|
+#### LXP_WeLearn
+| [Repository](https://github.com/20250915-POTENUP-FE-1/LXP_WeLearn) | [Issues](https://github.com/20250915-POTENUP-FE-1/LXP_WeLearn/issues?q=is%3Aissue%20state%3Aclosed) |
+|-----------------------------------------------------------|-----------------|
+#### LXP_HSS-Hub
+| [Repository](https://github.com/20250915-POTENUP-FE-1/LXP_HSS-Hub) | [Issues](https://github.com/20250915-POTENUP-FE-1/LXP_HSS-Hub/issues?q=is%3Aissue%20state%3Aclosed) |
+|-----------------------------------------------------------|-----------------|
+#### LXP_lern-p
+| [Repository](https://github.com/20250915-POTENUP-FE-1/LXP_lern-p) | [Issues](https://github.com/20250915-POTENUP-FE-1/LXP_lern-p/issues?q=is%3Aissue%20state%3Aclosed) |
+|-----------------------------------------------------------|-----------------|
+
 ### 📝 Learning Course
 1. HTML
 2. CSS
