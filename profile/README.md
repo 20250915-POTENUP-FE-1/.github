@@ -74,7 +74,7 @@
 - [React](https://github.com/20250915-POTENUP-FE-1/04_react-workspace)
 - [Firebase](https://github.com/20250915-POTENUP-FE-1/05_firebase-workspace/tree/main)
 - [GraphQL](https://github.com/20250915-POTENUP-FE-1/06_graphql-workspace)
-- [TypeScript]()
+- [TypeScript](https://github.com/20250915-POTENUP-FE-1/07_typescript-workspace)
 - [Next.js]()
 - [DevOps]()
 - [AI]()
