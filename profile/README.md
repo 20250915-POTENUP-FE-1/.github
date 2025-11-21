@@ -87,7 +87,7 @@
 - [React](https://drive.google.com/drive/folders/1d2TRIOtgKfBTXFtohEyWt5NJjJfm2qWN?usp=drive_link)
 - [Firebase](https://drive.google.com/drive/folders/1TF7rkq2nA73prw8Y-1En0mF9kXkN-s-9?usp=drive_link)
 - [GraphQL](https://drive.google.com/drive/folders/1fF3QDxk4a4a37Ghu6cKQ5nI-fvOoohuX?usp=drive_link)
-- [TypeScript]()
+- [TypeScript](https://drive.google.com/drive/folders/17LLlYi3mk65o97dqxXm5WRFnkiMG0AHg?usp=sharing)
 - [Next.js]()
 - [DevOps]()
 - [AI]()
