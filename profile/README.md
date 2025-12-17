@@ -76,6 +76,7 @@
 - [GraphQL](https://github.com/20250915-POTENUP-FE-1/06_graphql-workspace)
 - [TypeScript](https://github.com/20250915-POTENUP-FE-1/07_typescript-workspace)
 - [Next.js](https://github.com/20250915-POTENUP-FE-1/08_nextjs-workspace)
+- [Optimization](https://github.com/20250915-POTENUP-FE-1/09_optimization-workspace)
 - [DevOps]()
 - [AI]()
 
@@ -89,6 +90,7 @@
 - [GraphQL](https://drive.google.com/drive/folders/1fF3QDxk4a4a37Ghu6cKQ5nI-fvOoohuX?usp=drive_link)
 - [TypeScript](https://drive.google.com/drive/folders/17LLlYi3mk65o97dqxXm5WRFnkiMG0AHg?usp=sharing)
 - [Next.js](https://drive.google.com/drive/folders/1aH0ryFGEDLIqj5JzXb39h4L9-Gm_Df9u?usp=drive_link)
+- [Optimization](https://drive.google.com/drive/folders/1hCjacKFzlFNr-_jQ9W44HiwvnzxPtCnG?usp=drive_link)
 - [DevOps]()
 - [AI]()
 
