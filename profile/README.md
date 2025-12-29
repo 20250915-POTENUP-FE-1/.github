@@ -77,6 +77,7 @@
 - [TypeScript](https://github.com/20250915-POTENUP-FE-1/07_typescript-workspace)
 - [Next.js](https://github.com/20250915-POTENUP-FE-1/08_nextjs-workspace)
 - [Optimization](https://github.com/20250915-POTENUP-FE-1/09_optimization-workspace)
+- [Testing](https://github.com/20250915-POTENUP-FE-1/10_testing-workspace)
 - [DevOps]()
 - [AI]()
 
@@ -91,6 +92,7 @@
 - [TypeScript](https://drive.google.com/drive/folders/17LLlYi3mk65o97dqxXm5WRFnkiMG0AHg?usp=sharing)
 - [Next.js](https://drive.google.com/drive/folders/1aH0ryFGEDLIqj5JzXb39h4L9-Gm_Df9u?usp=drive_link)
 - [Optimization](https://drive.google.com/drive/folders/1hCjacKFzlFNr-_jQ9W44HiwvnzxPtCnG?usp=drive_link)
+- [Testing](https://drive.google.com/drive/folders/1_6qmqyugA5K-5zJdac9mjZjt_dPdZxjW?usp=drive_link)
 - [DevOps]()
 - [AI]()
 
