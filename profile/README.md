@@ -93,7 +93,7 @@
 - [Next.js](https://drive.google.com/drive/folders/1aH0ryFGEDLIqj5JzXb39h4L9-Gm_Df9u?usp=drive_link)
 - [Optimization](https://drive.google.com/drive/folders/1hCjacKFzlFNr-_jQ9W44HiwvnzxPtCnG?usp=drive_link)
 - [Testing](https://drive.google.com/drive/folders/1_6qmqyugA5K-5zJdac9mjZjt_dPdZxjW?usp=drive_link)
-- [DevOps]()
+- [DevOps](https://drive.google.com/drive/folders/1Y8BwZbg1fLov_3N1_XcMeU4xmP3OP_Z6?usp=drive_link)
 - [AI]()
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
