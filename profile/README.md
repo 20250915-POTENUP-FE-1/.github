@@ -43,8 +43,8 @@
 9. Testing
 10. 성능분석 및 최적화
 11. DevOps
-12. Data Engineering
-13. AI
+12. Web Socket, Data Engineering
+13. AI 서비스
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -78,7 +78,7 @@
 - [Next.js](https://github.com/20250915-POTENUP-FE-1/08_nextjs-workspace)
 - [Optimization](https://github.com/20250915-POTENUP-FE-1/09_optimization-workspace)
 - [Testing](https://github.com/20250915-POTENUP-FE-1/10_testing-workspace)
-- [DevOps]()
+- [Web Socket, Data Engineering]()
 - [AI]()
 
 ### 📽️ 수업 영상
@@ -94,6 +94,7 @@
 - [Optimization](https://drive.google.com/drive/folders/1hCjacKFzlFNr-_jQ9W44HiwvnzxPtCnG?usp=drive_link)
 - [Testing](https://drive.google.com/drive/folders/1_6qmqyugA5K-5zJdac9mjZjt_dPdZxjW?usp=drive_link)
 - [DevOps](https://drive.google.com/drive/folders/1Y8BwZbg1fLov_3N1_XcMeU4xmP3OP_Z6?usp=drive_link)
+- [Web Socket, Data Engineering]()
 - [AI]()
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
