@@ -78,7 +78,7 @@
 - [Next.js](https://github.com/20250915-POTENUP-FE-1/08_nextjs-workspace)
 - [Optimization](https://github.com/20250915-POTENUP-FE-1/09_optimization-workspace)
 - [Testing](https://github.com/20250915-POTENUP-FE-1/10_testing-workspace)
-- [Web Socket, Data Engineering]()
+- [Web Socket, Data Engineering](https://github.com/20250915-POTENUP-FE-1/12_special-track-workspace)
 - [AI]()
 
 ### 📽️ 수업 영상
@@ -94,7 +94,7 @@
 - [Optimization](https://drive.google.com/drive/folders/1hCjacKFzlFNr-_jQ9W44HiwvnzxPtCnG?usp=drive_link)
 - [Testing](https://drive.google.com/drive/folders/1_6qmqyugA5K-5zJdac9mjZjt_dPdZxjW?usp=drive_link)
 - [DevOps](https://drive.google.com/drive/folders/1Y8BwZbg1fLov_3N1_XcMeU4xmP3OP_Z6?usp=drive_link)
-- [Web Socket, Data Engineering]()
+- [Web Socket, Data Engineering](https://drive.google.com/drive/folders/11uvvz5khG7eMukr_uP6Rv15Zu9AnD6DL?usp=drive_link)
 - [AI]()
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
