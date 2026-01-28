@@ -79,7 +79,7 @@
 - [Optimization](https://github.com/20250915-POTENUP-FE-1/09_optimization-workspace)
 - [Testing](https://github.com/20250915-POTENUP-FE-1/10_testing-workspace)
 - [Web Socket, Data Engineering](https://github.com/20250915-POTENUP-FE-1/12_special-track-workspace)
-- [AI]()
+- [AI](https://github.com/20250915-POTENUP-FE-1/13_ai-workspace/tree/main/01_sse-streaming)
 
 ### 📽️ 수업 영상
 - [Git](https://drive.google.com/drive/folders/1p71qtpiyU6kNLEqX4-KEZnQ-HhzPz7eR?usp=drive_link)
@@ -95,6 +95,6 @@
 - [Testing](https://drive.google.com/drive/folders/1_6qmqyugA5K-5zJdac9mjZjt_dPdZxjW?usp=drive_link)
 - [DevOps](https://drive.google.com/drive/folders/1Y8BwZbg1fLov_3N1_XcMeU4xmP3OP_Z6?usp=drive_link)
 - [Web Socket, Data Engineering](https://drive.google.com/drive/folders/11uvvz5khG7eMukr_uP6Rv15Zu9AnD6DL?usp=drive_link)
-- [AI]()
+- [AI](https://drive.google.com/drive/folders/1r_zcEHby1fbuGDjran1-JJF3y4RR5vOZ?usp=drive_link)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
